@@ -14,5 +14,7 @@
 - Efficient Private Empirical Risk Minimization for High-dimensional Learning [[paper]](http://www.shivakasiviswanathan.com/ICML16.pdf)
 - Talk on Differential Privacy on Risk minimization by Prateek Jain [[talk]](https://www.youtube.com/watch?v=PgNpNcR6afY)
 
+## Papers related to privacy in Gradient Descent Methods
+- Deep Learning with differential Privacy - Stochastic Gradient Descent Approach[[paper]](https://arxiv.org/pdf/1607.00133.pdf)
 
 
