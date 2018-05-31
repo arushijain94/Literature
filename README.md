@@ -15,6 +15,6 @@
 - Talk on Differential Privacy on Risk minimization by Prateek Jain [[talk]](https://www.youtube.com/watch?v=PgNpNcR6afY)
 
 ## Papers related to privacy in Gradient Descent Methods
-- Deep Learning with differential Privacy - Stochastic Gradient Descent Approach[[paper]](https://arxiv.org/pdf/1607.00133.pdf)
+- Deep Learning with differential Privacy - Stochastic Gradient Descent Approach[[paper]](https://arxiv.org/pdf/1607.00133.pdf) [[slide1]](https://qdata.github.io/deep2Read//talks/20171012-Bargav-2.pdf) [[slide2]](https://www.ece.cmu.edu/~ece734/f16-18734/lectures/Deep_Learning_with_differential_privacy.pdf)
 - Stochastic gradient descent with differentially private updates [[paper]](http://www.ece.rutgers.edu/%7Easarwate/pdfs/SongCS13sgd.pdf)
 
