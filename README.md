@@ -16,5 +16,5 @@
 
 ## Papers related to privacy in Gradient Descent Methods
 - Deep Learning with differential Privacy - Stochastic Gradient Descent Approach[[paper]](https://arxiv.org/pdf/1607.00133.pdf)
-
+- Stochastic gradient descent with differentially private updates [[paper]](http://www.ece.rutgers.edu/%7Easarwate/pdfs/SongCS13sgd.pdf)
 
