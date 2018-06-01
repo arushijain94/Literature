@@ -9,6 +9,9 @@
 - Algorithms for Differentially Private Multi-Armed Bandit [[paper]](https://arxiv.org/pdf/1511.08681.pdf)
 - Smooth Sensitivity and Sampling in Private Data Analysis [[paper]](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf)
 
+## Good Quick Links for understanding Differential Privacy
+- Preliminary of Differential Privacy [[paper]](https://drive.google.com/file/d/1HI_WK5RvlI3KDl5-KB86CWzhvyTw0GDH/view?usp=sharing)
+
 ## Some extra relevant list on Risk Minimization
 - Empirical Risk Minimization in Non-interactive Local Differential Privacy: Efficiency and High Dimensional Case [[paper]](https://arxiv.org/pdf/1802.04085.pdf)
 - Efficient Private Empirical Risk Minimization for High-dimensional Learning [[paper]](http://www.shivakasiviswanathan.com/ICML16.pdf)
